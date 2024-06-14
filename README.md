@@ -114,3 +114,11 @@ This project, completed as part of a university programming lab, focuses on proc
 
 - **Prof. Ahmet SAYAR**: For providing guidance and course materials on object-oriented programming.
 - **Kocaeli University**: For the educational support and resources.
+
+# Sources
+
+You can review the project code [here](Main.java).
+
+You can review the project family datas [here](/data).
+
+You can review the project report [here](FamilyTreeRep.pdf).
