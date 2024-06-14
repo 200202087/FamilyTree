@@ -11,7 +11,7 @@ This project aims to create a family tree using object-oriented programming prin
 5. [Classes and Methods](#classes-and-methods)
 6. [Technologies Used](#technologies-used)
 7. [Acknowledgements](#acknowledgements)
-8. [License](#license)
+8. [Sources](#sources)
 
 ## Overview
 
