@@ -44,8 +44,8 @@ This project, completed as part of a university programming lab, focuses on proc
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/200202087/family-tree-generator.git
-    cd family-tree-generator
+    git clone https://github.com/200202087/familytreegenerator.git
+    cd familytreegenerator
     ```
 
 2. **Compile the Java Files**:
